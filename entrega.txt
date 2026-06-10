@@ -1,0 +1,12 @@
+Nome da missão: Apollo 18
+
+Nome da equipe: Asas Livres
+
+Integrantes:
+Caio Marques
+
+RM dos integrantes:
+573847
+
+Link do repositório GitHub:
+https://github.com/caiom9249-lang/GS_2026.1
